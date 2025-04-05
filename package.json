@@ -1,11 +1,13 @@
 {
   "name": "fundamentos-nodejs",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "description": "Repositório com conceitos básicos e exemplos práticos de Node.js.",
   "main": "index.js",
   "repository": ".",
   "author": "Gelziey R. Martins",
   "license": "MIT",
-  "scripts": {}
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  }
 }
