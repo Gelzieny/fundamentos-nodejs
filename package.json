@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Repositório com conceitos básicos e exemplos práticos de Node.js.",
   "main": "index.js",
-  "repository": ".",
+  "repository": "https://github.com/Gelzieny/fundamentos-nodejs.git",
   "author": "Gelziey R. Martins",
   "license": "MIT",
   "scripts": {
