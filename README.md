@@ -41,3 +41,7 @@ A saída esperada deve indicar a versão instalada, por exemplo:
 ````bash
 3.2.1
 ````
+
+
+
+Feito com 💚 por Gelzieny R. Martins
